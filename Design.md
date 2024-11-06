@@ -39,6 +39,16 @@ The player should be able to do the equivalent of “clicking” on a square by 
 
 - Whether the player ultimately wins or loses, a little postgame screen should pop up that details the total time (in seconds) spent playing the game and how many squares were revealed. If the player has previously won, also show their best time.
 
+## Difficulty Levels
+
+- There should be 5 difficulties in the game which are stylized based on the environment of said country.  The difficulties in order of least to most difficult should be as follows:
+- Ukraine
+- Afghanistan
+- Cambodia
+- Bosnia and Herzegovina
+- Vietnam
+  The game should NOT explain which one is more difficult or why, but allow the user to choose the difficulty level and the apprpriate complexity and difficulty will be chosen.
+ 
 ## Map Generation
 
 - The player should start automatically on a random square with no mines.
@@ -64,3 +74,5 @@ The player should be able to do the equivalent of “clicking” on a square by 
 - On the top middle, there should be a reset button that allows the player to start a new game.
 - On the bottom right, there should be a minimap that pops out when clicked.
 - On the bottom left, there should be a settings gear where the player can customize their character.
+
+  
